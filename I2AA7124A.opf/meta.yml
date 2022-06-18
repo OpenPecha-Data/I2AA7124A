@@ -1,0 +1,38 @@
+id: I2AA7124A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:04:28.561946'
+last_modified: '2022-06-19T02:04:28.561958'
+parser: null
+source_metadata:
+  title: Hagiography of Gong dkar rDo rje gdan pa Kun dga rnam rgyal (1432–1496),
+    no. II
+  author: གཞོན་ནུ་རྣམ་རྒྱལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-10-13);
+    converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་གསལ་དོན་གྲུབ། (Dehradun) (ld)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/64
+  bases:
+    428b:
+      title: Hagiography of Gong dkar rDo rje gdan pa Kun dga rnam rgyal (1432–1496),
+        no. II
+      order: 1
+      base_file: 428b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
